@@ -1,0 +1,14 @@
+# フレームワーク・依存ライブラリ
+requests==2.31.0
+beautifulsoup4==4.13.2
+feedparser==6.0.11
+undetected-chromedriver>=3.5.5
+
+# Selenium（undetected-chromedriverが内部利用）
+selenium==4.14.0
+
+# テスト用
+pytest==7.4.0
+
+# CAPTCHA回避
+seleniumbase

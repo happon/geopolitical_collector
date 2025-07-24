@@ -1,0 +1,25 @@
+pytest -m pytest
+or
+pytest
+
+# 特定ディレクトリ／ファイルを指定
+pytest tests/
+pytest tests/test_parsers.py
+
+# 詳細表示
+pytest -v
+
+# 最初の失敗で停止
+pytest -x
+
+# 特定のキーワードを含むテストのみ実行
+pytest -k "hacker"
+
+# 失敗テストのみ再実行
+pytest --lf
+
+# 実行時間の長いテスト上位１０件表示
+pytest --durations=10
+``` :contentReference[oaicite:3]{index=3}
+
+

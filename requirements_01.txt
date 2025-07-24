@@ -1,0 +1,12 @@
+# RSSフィード処理用
+feedparser>=6.0.10
+
+# HTMLパース用
+beautifulsoup4>=4.12.2
+
+# HTTPリクエスト（API取得）
+requests>=2.31.0
+
+# Selenium本体とbot回避用ドライバ
+selenium>=4.11.2
+undetected-chromedriver>=3.5.5

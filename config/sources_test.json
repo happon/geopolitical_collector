@@ -1,0 +1,8 @@
+[
+    {
+        "name": "The Hacker News",
+        "url": "https://feeds.feedburner.com/TheHackersNews?format=xml",
+        "domain": "thehackernews.com",
+        "category": "Cybersecurity"
+    }
+]

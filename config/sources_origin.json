@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Newsweek",
+        "url": "https://www.newsweek.com/rss",
+        "domain": "newsweek.com",
+        "category": "Plitical_Economy"
+    },
+    {
+        "name": "The Hacker News",
+        "url": "https://feeds.feedburner.com/TheHackersNews?format=xml",
+        "domain": "thehackernews.com",
+        "category": "Cybersecurity"
+    },
+    {
+        "name": "Mandiant Threat API",
+        "url": "https://api.mandiant.com/threats/latest",
+        "domain": "api.mandiant.com",
+        "category": "ThreatIntel"
+    }
+]
